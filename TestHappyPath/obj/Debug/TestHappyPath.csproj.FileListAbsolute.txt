@@ -1,0 +1,6 @@
+c:\users\id1\documents\visual studio 2015\Projects\TestHappyPath\TestHappyPath\bin\Debug\TestHappyPath.exe.config
+c:\users\id1\documents\visual studio 2015\Projects\TestHappyPath\TestHappyPath\bin\Debug\TestHappyPath.exe
+c:\users\id1\documents\visual studio 2015\Projects\TestHappyPath\TestHappyPath\bin\Debug\TestHappyPath.pdb
+c:\users\id1\documents\visual studio 2015\Projects\TestHappyPath\TestHappyPath\obj\Debug\TestHappyPath.csprojResolveAssemblyReference.cache
+c:\users\id1\documents\visual studio 2015\Projects\TestHappyPath\TestHappyPath\obj\Debug\TestHappyPath.exe
+c:\users\id1\documents\visual studio 2015\Projects\TestHappyPath\TestHappyPath\obj\Debug\TestHappyPath.pdb
