@@ -11,6 +11,7 @@ namespace TestHappyPath
         static void Main(string[] args)
         {
             Console.WriteLine("This is a happy path to demostrate the happy path");
+
             Console.ReadLine();
         }
     }
